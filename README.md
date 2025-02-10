@@ -116,4 +116,4 @@ Steo 24 --> Open your Tally ERP9 from Desktop or Applications Menu, you will be 
 
 ![image](https://user-images.githubusercontent.com/79533228/158689251-b774c193-f4b6-4d75-8c89-21c0937c9a66.png)
 
-Hoorah!! Tally ERP is succesfully cracked and is ready to use.
+Done!! Tally ERP is succesfully cracked and is ready to use.
