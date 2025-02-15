@@ -7,7 +7,6 @@ I WILL ADD IMAGES FOR BETTER UNDERSTANDING THE INSTALLATION ....................
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Step 1 --> Click on Code and then click on Download ZIP. (as shown in the image below).
 
-![image](https://user-images.githubusercontent.com/79533228/158681086-d9034b5a-11bd-4ff0-ac50-e2c32641a5c5.png)
 
 Step 2 --> Goto Windows Settings > Virus and Threat Protection and click on Manage Settings under Virus and Threat Protection Settings.
 
