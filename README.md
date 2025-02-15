@@ -5,7 +5,7 @@ HERE I CAN GIVE YOU TALLY PREMIUM CRACK . USE MY REPOSITORY . FIRST DOWNLOAD THE
 I WILL ADD IMAGES FOR BETTER UNDERSTANDING THE INSTALLATION .........................................
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Step 1 --> Click on Code and then click on Download ZIP. (as shown in the image below).
+Step 1 --> Click on Code and then click on Download ZIP.
 
 
 Step 2 --> Goto Windows Settings > Virus and Threat Protection and click on Manage Settings under Virus and Threat Protection Settings.
